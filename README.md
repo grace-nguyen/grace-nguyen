@@ -6,8 +6,8 @@ Passionate about building user-centric solutions with 8+ years of experience in 
 
 🔗 **Connect with me**:  
 [![Email](https://img.shields.io/badge/-grace.nnguyen1911@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:grace.nnguyen1911@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gracenguyen1911/])
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=github&logoColor=white)]([https://gracenguyen-psi.vercel.app/])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracenguyen1911)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=github&logoColor=white)](https://gracenguyen-psi.vercel.app/)
 
 ---
 
