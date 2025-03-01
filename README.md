@@ -50,7 +50,7 @@ Passionate about building user-centric solutions with 8+ years of experience in 
 
 ## 💼 Professional Experience
 
-### **Software Engineer** @ [Jung Talents](https://jungtalents.com) *(North Wollongong, NSW)*  
+### **Software Engineer** @ [Jung Talents](https://jungtalents.com) *(North Wollongong, NSW, Australia)*  
 *(2022–Present)*  
 - Engaged in **PTE Master** and **PTE Platform**, enhancing search functionalities and course recommendation systems using **React, Next.js, Nest.js, and ASP.NET Core**.  
 - Built the Carina Eye Care website (WIP) with **React, Next.js, and Storyblok CMS**.  
