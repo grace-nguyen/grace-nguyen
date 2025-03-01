@@ -52,14 +52,14 @@ Passionate about building user-centric solutions with 8+ years of experience in 
 
 ### **Software Engineer** @ [Jung Talents](https://jungtalents.com) *(North Wollongong, NSW)*  
 *(2022–Present)*  
-- Led frontend development for **PTE Master** and **PTE Platform**, enhancing search functionalities and course recommendation systems using **React, Next.js, Nest.js, and ASP.NET Core**.  
+- Engaged in **PTE Master** and **PTE Platform**, enhancing search functionalities and course recommendation systems using **React, Next.js, Nest.js, and ASP.NET Core**.  
 - Built the Carina Eye Care website (WIP) with **React, Next.js, and Storyblok CMS**.  
 - Streamlined CI/CD pipelines using **AWS** and **Git** for efficient deployments.  
 
 ### **Software Engineer** @ [CarePlus International Clinics](https://careplus.vn) *(Ho Chi Minh, Vietnam)*  
 *(2021–2022)*  
 - Architected a **clinic management system** using **React, TypeScript, GraphQL, and REST APIs**, improving patient scheduling efficiency by 40%.  
-- Mentored a team of 7 developers, optimizing workflows and task delegation.  
+- Worked with a team of 7 developers, optimizing workflows and task delegation.  
 
 ### **Software Engineer** @ [Jobhopin](https://jobhopin.com) *(Ho Chi Minh, Vietnam)*  
 *(2020–2021)*  
@@ -82,7 +82,7 @@ Passionate about building user-centric solutions with 8+ years of experience in 
 - Enhanced search algorithms and recommendation systems, boosting user engagement by 25%.  
 
 ### **Clinic Management System**  
-- **Tech Stack**: React, GraphQL, ASP.NET Core, PostgreSQL  
+- **Tech Stack**: React, Typescript, Zustand, REST API, GraphQL, MySQL 
 - Integrated real-time medical record updates, reducing data entry errors by 60%.  
 
 ### **E-commerce Solutions**  
