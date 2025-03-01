@@ -71,7 +71,7 @@ Passionate about building user-centric solutions with 8+ years of experience in 
 - Customized themes/plugins and integrated payment gateways for seamless user experiences.  
 - Optimized performance and SEO for CMS-based platforms.  
 
-*(See full experience in [CV](https://drive.google.com/file/d/1jMwB_vTCHXBfNebeff2kDZiCph_Q-TjY/view)*
+*(See full experience in [CV](https://drive.google.com/file/d/1jMwB_vTCHXBfNebeff2kDZiCph_Q-TjY/view))*
 
 ---
 
