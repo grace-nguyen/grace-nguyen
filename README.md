@@ -6,8 +6,8 @@ Passionate about building user-centric solutions with 8+ years of experience in 
 
 🔗 **Connect with me**:  
 [![Email](https://img.shields.io/badge/-grace.nnguyen1911@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:grace.nnguyen1911@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=github&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gracenguyen1911/])
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=github&logoColor=white)]([https://gracenguyen-psi.vercel.app/])
 
 ---
 
@@ -30,6 +30,13 @@ Passionate about building user-centric solutions with 8+ years of experience in 
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=.net&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?logo=playwright&logoColor=white)
+
+**CMS & E-commerce**:  
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+![Joomla](https://img.shields.io/badge/-Joomla-5091CD?logo=joomla&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/-PrestaShop-DF0067?logo=prestashop&logoColor=white)
+![OpenCart](https://img.shields.io/badge/-OpenCart-34BC53?logo=opencart&logoColor=white)
 
 **Databases & Cloud**:  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
@@ -59,6 +66,11 @@ Passionate about building user-centric solutions with 8+ years of experience in 
 - Developed an AI-powered job search platform with **React, TypeScript, and Playwright** for end-to-end testing.  
 - Built a reusable component library using **Storybook**, reducing development time by 30%.  
 
+### **CMS & E-commerce Projects**  
+- Built client websites using **WordPress, Joomla, Shopify, PrestaShop, and OpenCart** for diverse industries.  
+- Customized themes/plugins and integrated payment gateways for seamless user experiences.  
+- Optimized performance and SEO for CMS-based platforms.  
+
 *(See full experience in [CV](CV_Grace_Nguyen_SE.pdf))*
 
 ---
@@ -73,9 +85,9 @@ Passionate about building user-centric solutions with 8+ years of experience in 
 - **Tech Stack**: React, GraphQL, ASP.NET Core, PostgreSQL  
 - Integrated real-time medical record updates, reducing data entry errors by 60%.  
 
-### **AI-Powered Job Portal**  
-- **Tech Stack**: React, TypeScript, Playwright  
-- Implemented automated testing, cutting deployment failures by 35%.  
+### **E-commerce Solutions**  
+- **Tech Stack**: WordPress, Shopify, PrestaShop  
+- Delivered scalable online stores with custom integrations and responsive designs.  
 
 ---
 
