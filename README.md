@@ -5,10 +5,15 @@ Passionate about building user-centric solutions with 8+ years of experience in 
 📍 Based in North Wollongong, NSW, Australia  
 
 🔗 **Connect with me**:  
-[![Email](https://img.shields.io/badge/-grace.nnguyen1911@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:grace.nnguyen1911@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracenguyen1911)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=github&logoColor=white)](https://gracenguyen-psi.vercel.app/)
-
+<a href="mailto:grace.nnguyen1911@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-grace.nnguyen1911@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.linkedin.com/in/gracenguyen1911" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://gracenguyen-psi.vercel.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=github&logoColor=white" alt="Portfolio">
+</a>
 ---
 
 ## 🛠️ Technical Skills
