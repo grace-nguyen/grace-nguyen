@@ -71,7 +71,7 @@ Passionate about building user-centric solutions with 8+ years of experience in 
 - Customized themes/plugins and integrated payment gateways for seamless user experiences.  
 - Optimized performance and SEO for CMS-based platforms.  
 
-*(See full experience in [CV](CV_Grace_Nguyen_SE.pdf))*
+*(See full experience in [CV]([CV_Grace_Nguyen_SE.pdf](https://drive.google.com/file/d/1jMwB_vTCHXBfNebeff2kDZiCph_Q-TjY/view)))*
 
 ---
 
@@ -109,4 +109,4 @@ Passionate about building user-centric solutions with 8+ years of experience in 
 ---
 
 💡 **Fun Fact**: I love translating Figma designs into pixel-perfect code while sipping Vietnamese coffee! ☕  
-📫 **Let’s collaborate!** Reach out via [email](mailto:grace.nnguyen1911@gmail.com) or [LinkedIn](https://linkedin.com/in/your-profile).
+📫 **Let’s collaborate!** Reach out via [email](mailto:grace.nnguyen1911@gmail.com) or [LinkedIn](https://linkedin.com/in/gracenguyen1911).
