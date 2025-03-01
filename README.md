@@ -36,4 +36,3 @@
 
 ---
 
-Bạn thấy bản README này thế nào? Có cần thêm chỉnh sửa gì không? 😊
