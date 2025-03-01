@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thi Nga (Grace) Nguyen
+# 👋 Hi, I'm Grace Nguyen
 
 **Software Engineer | Full Stack Developer**  
 Passionate about building user-centric solutions with 8+ years of experience in frontend development and expanding into full-stack technologies.  
