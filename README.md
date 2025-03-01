@@ -51,18 +51,18 @@ Passionate about building user-centric solutions with 8+ years of experience in 
 ## 💼 Professional Experience
 
 ### **Software Engineer** @ [Jung Talents](https://jungtalents.com) *(North Wollongong, NSW, Australia)*  
-*(2022–Present)*  
+*(Dec 2023– Present)*  
 - Engaged in **PTE Master** and **PTE Platform**, enhancing search functionalities and course recommendation systems using **React, Next.js, Nest.js, and ASP.NET Core**.  
 - Built the Carina Eye Care website (WIP) with **React, Next.js, and Storyblok CMS**.  
 - Streamlined CI/CD pipelines using **AWS** and **Git** for efficient deployments.  
 
 ### **Software Engineer** @ [CarePlus International Clinics](https://careplus.vn) *(Ho Chi Minh, Vietnam)*  
-*(2021–2022)*  
+*(Jan 2024 – Sep 2024)*  
 - Architected a **clinic management system** using **React, TypeScript, GraphQL, and REST APIs**, improving patient scheduling efficiency by 40%.  
 - Worked with a team of 7 developers, optimizing workflows and task delegation.  
 
 ### **Software Engineer** @ [Jobhopin](https://jobhopin.com) *(Ho Chi Minh, Vietnam)*  
-*(2020–2021)*  
+*(Jun 2022 – Nov 2023)*  
 - Developed an AI-powered job search platform with **React, TypeScript, and Playwright** for end-to-end testing.  
 - Built a reusable component library using **Storybook**, reducing development time by 30%.  
 
